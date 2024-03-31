@@ -29,3 +29,12 @@ Anyone is free to use mod as a pre requisite for your own mod or copy the dll to
 As I'm making a body retexture mod I will have this mod as a pre requisite for my future mod.
 
 Might not be compatible with HAR, if you are using HAR you probably don't need this anyway.
+
+Male pawn body texture mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2068281501
+Female pawn body texture is a variation based on the mod above.
+All credit for the texture from the screenshot and my future body texture mod goes to ireth92
+https://steamcommunity.com/id/ireth92
+
+Mod with source (This mod does not contain the textures from the screenshot):
+https://github.com/purpleorangegames/FemaleBodyVariants
+
