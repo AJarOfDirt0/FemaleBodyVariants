@@ -1,11 +1,17 @@
-# FemaleBodyVariants
+﻿<?xml version="1.0" encoding="utf-8"?>
 
-Rimworld mod that allows a new texture variant for thin, fat and hulk bodytypes.
+<ModMetaData>
+  <name>FemaleBodyVariants</name>
+  <author>tiagocc0</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <modIconPath IgnoreIfNoMatchingField="True">UI/FemaleBodyVariants</modIconPath>
+  <packageId>tiagocc0.FemaleBodyVariants</packageId>
+  <loadAfter></loadAfter>
+  <url></url>
 
----
-
-## Description
-
+  <description>
 This mod provides a way to load, on the fly, a different body texture for thin, fat and hulk females. 
 It will use these names:
 
@@ -29,3 +35,5 @@ Anyone is free to use mod as a pre requisite for your own mod or copy the dll to
 As I'm making a body retexture mod I will have this mod as a pre requisite for my future mod.
 
 Might not be compatible with HAR, if you are using HAR you probably don't need this anyway.
+  </description>
+</ModMetaData>
